@@ -2,8 +2,8 @@
 proyecto escolar
 """
 Implementación y evaluación de filtros digitales
-Autor: [Tu Nombre]
-Fecha: 2024
+Autor: [Linda ROMERO]
+Fecha: 2026
 Descripción: Diseño e implementación de filtros pasa bajos, pasa altos y pasa bandas
 """
 
